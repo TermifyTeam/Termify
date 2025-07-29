@@ -24,9 +24,8 @@
 
 <br>
 
-<pre align="middle">
-Say goodbye to bulky SSH tools. Our next-generation SSH client offers a clean, thoughtful experience that keeps your workflow fast, light, and organized—without draining your system's resources.
-</pre>
+Say goodbye to bulky SSH tools. 
+Our next-generation SSH client offers a clean, thoughtful experience that keeps your workflow fast, light, and organized—without draining your system's resources.
 
 <br>
 
@@ -34,7 +33,9 @@ Say goodbye to bulky SSH tools. Our next-generation SSH client offers a clean, t
 <h4 align="middle">Check out some of our features:</h4>
 
 ![Welcome-screen](https://raw.githubusercontent.com/TermifyTeam/Termify/main/screenshots/Termify_Connect.png "Welcome screen")
+<br>
 ![Workspace-screen](https://raw.githubusercontent.com/TermifyTeam/Termify/main/screenshots/Termify_FTP.png "Workspace")
+<br>
 ![Dark-Theme-screen](https://raw.githubusercontent.com/TermifyTeam/Termify/main/screenshots/Termify_Autocomplete.png "Dark Them screen")
 
 <br>
