@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Support
+    url: mailto:team@termify.sh
+    about: If you have a general question or need help, please email us.
+  - name: GitHub Discussions
+    url: https://github.com/TermifyTeam/Termify/discussions
+    about: Join the community to ask questions and share ideas.
