@@ -18,7 +18,7 @@
 <h4 align="middle">
     <u>
         This repository is currently being used for hosting the official issue 
-        & bug tracker of Termify
+        & bug tracker
     </u>
 </h4>
 
