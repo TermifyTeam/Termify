@@ -8,7 +8,7 @@
     <a href="https://github.com/TermifyTeam/Termify/issues">
         <img src="https://img.shields.io/badge/-Bugs%20%2F%20Features-7057ff?style=for-the-badge" alt="Bugs/Features">
     </a>
-    <a href="">
+    <a href="ROADMAP.md">
         <img src="https://img.shields.io/badge/-Road%20Map-blue?style=for-the-badge" alt="Road Map">
     </a>
 </p>
